@@ -40,3 +40,7 @@ mongo-data
 /postgres-inventory/
 /postgres-order/
 /grafana/
+
+
+### Git ###
+*.patch
